@@ -12,6 +12,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
-    "expo-env.d.ts"
-  ]
+    "expo-env.d.ts",
+    "src/components/measurement_input/index.js"
+, "app/index.js", "app/_layout.js"  ]
 }
