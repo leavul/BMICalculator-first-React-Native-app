@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+# 🚀 BMI Calculator - My First React Native App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple BMI calculator mobile application built with React Native. This is my first mobile application that allows users to calculate their BMI by entering their height and weight.
 
-## Get started
+## 📱 About the App
 
-1. Install dependencies
+**This BMI calculator helps users:**
+- Enter their height and weight
+- Calculate their BMI instantly
+- View their BMI category (Underweight, Normal weight, Overweight, or Obese)
+- Get a clear, easy-to-understand result
 
-   ```bash
-   npm install
-   ```
+## 👀 I created this project to learn and practice:
 
-2. Start the app
+- React Native fundamentals
+- Mobile UI components
+- Styling and layout
+- App structure
+- State management basics
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ Technologies Used
 
-In the output, you'll find options to open the app in a
+- React Native
+- JavaScript
+- Expo
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📸 Screenshots
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+<p align="center">
+  <img width="250" alt="Simulator Screenshot - iPhone 16 Plus - 2025-09-09 at 20 24 17" src="https://github.com/user-attachments/assets/80b42698-2d0f-42cf-a594-9c00d6d8d1b9" />
+  <img width="250" alt="Simulator Screenshot - iPhone 16 Plus - 2025-09-09 at 20 24 27" src="https://github.com/user-attachments/assets/71b8eb41-2e6f-4c9f-be92-ac2df55b6caf" />
+  <img width="250" alt="Simulator Screenshot - iPhone 16 Plus - 2025-09-09 at 20 24 30" src="https://github.com/user-attachments/assets/ef406163-3da1-4eb0-919e-f6b598e19001" />
+</p>
 
-## Get a fresh project
+## 📚 What I Learned
 
-When you're ready, run:
+Through building this app, I gained hands-on experience with:
 
-```bash
-npm run reset-project
-```
+- **React Native fundamentals** - Understanding the basics of mobile app development
+- **Mobile UI components** - Working with Text, View, TextInput, Button, and other core components
+- **Styling and layout** - Using StyleSheet
+- **App structure** - Organizing components and managing project architecture
+- **State management basics** - Using useState and managing component state
+- **Development environment setup** - Setting up Expo development environment and using Expo Go for testing
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🎬 Conclosion
+This project helped me learn some React fundamentals and mobile development concepts through hands-on practice.
