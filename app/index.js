@@ -57,7 +57,7 @@ export default function Index() {
   }
 
   return (
-    <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : 'height'} style={styles.container}>
+    <KeyboardAvoidingView style={styles.container} behavior={Platform.OS === 'ios' ? 'padding' : 'height'}>
       <View style={styles.cardView}>
         <View style={styles.unitSection}>
           <UnitLabel isOn={!isImperial} label={'Metric'} />

@@ -6,10 +6,13 @@ export default function RootLayout() {
       <Stack.Screen
         name="index"
         options={{
-          title: 'BMI Calculator'
+          title: 'BMI Calculator',
+          headerTitleStyle: {
+            fontFamily: 'Ubuntu Bold',
+          }
         }}
       >
       </Stack.Screen>
-    </Stack>)
+    </Stack >)
     ;
 }
